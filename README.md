@@ -1,5 +1,1 @@
-My name is Idris Aminu Idris, a tech enthusiast , i got my experience at steamledge limited,
-this has helped me to widen my range of knowledge and gather experiences through various disciplines, 
-such as web&mobile app development, electronics, graphic design, animations, user interface and user
-experience and many more.I am now focusing on Artificial Intelligence and Data science . 
-I love meeting new people,research and exploring new stuffs.
+A highly driven AI and Data Science specialist with strong experience across generative AI, data analytics, and education. Skilled in mentoring, prompt engineering, and product development with a proven track record of leading projects in educational and commercial settings. Known for innovation, strategic insights, and a passion for empowering others through technology.
